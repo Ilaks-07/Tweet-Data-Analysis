@@ -1,0 +1,15 @@
+Analyzed a tweet dataset using R programming containing the following columns:
+id
+date
+text
+source
+
+Desired outcomes:
+
+A) frequency plot of top 15 words
+b) A word-cloud of 50 most common words
+c) Usage of Social media hourly
+d) Usage of Social media per month
+e) Top-10 words for source=’iPhone’ and source=’Media Studio’
+f) Five words that were not used in the last six months of the data but were
+frequently used in first six months
